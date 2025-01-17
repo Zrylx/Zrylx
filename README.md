@@ -1,7 +1,7 @@
 
 ## 👋 Hi there, I'm **Zrylx**, a passionate software developer who loves turning ideas into reality with code.
 
-🎨 **Languages & Tools I Use**:
+## 🎨 **Languages & Tools I Use**:
 - 💻 **Primary Stacks**: C# & C++ (for developing softwares 🚀).
 - ⚡**Other Stuff**: HTML, CSS, and Lua (why not make some games on roblox for fun?).
 - 🛠️ Learning new things one line of code at a time!
