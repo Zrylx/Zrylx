@@ -7,7 +7,7 @@
 - 🛠️ Learning new things one line of code at a time!
 
 ## 🌌 **About Me**
-- 💖 I love building 100% free and open-source software for the community. Why? Because great ideas grow better with collaboration!
+- 💖 I love building 100% free and open-source software for the community. Why? Because I love helping people and also great ideas grow better with collaboration!
 - ✨ Open to feedback, suggestions, and creative ideas to make my projects even better.
 - 🌍 My mission: Build things that **everyone** can use and enjoy - no limitations attached!
 
