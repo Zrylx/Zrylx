@@ -10,6 +10,7 @@
 - 💖 I love building 100% free and open-source software for the community. Why? Because I love helping people and also great ideas grow better with collaboration!
 - ✨ Open to feedback, suggestions, and creative ideas to make my projects even better.
 - 🌍 My mission: Build things that **everyone** can use and enjoy - no limitations attached!
+- 🚀 Founder of [Zrylx Solutions](https://www.zrylxsolutions.software) - creating free, innovative software for everyone. 
 
 ## 📬 **Let's Connect**
 - 💬 Got feedback, suggestions, or questions? Feel free to dm me on [Discord](https://discord.com/users/666942198214033430).
